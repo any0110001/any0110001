@@ -27,7 +27,7 @@ Here on my GitHub, you’ll discover:
 When I’m not coding, you’ll find me:
 + Exploring new cuisines 🍴
 + Enjoying a good book 📚
-+ Playing basketball 🏀 or hiking 🌄
++ Playing games or hiking 🌄
 ## 📬 Let’s Connect
 If my work resonates with you, feel free to reach out! I’m always open to collaborations, discussions, or just a friendly chat.
 + 📧 Email: any.0110001@gmail.com
