@@ -14,8 +14,8 @@ Here on my GitHub, you’ll discover:
 + Experimentation & Growth: Personal projects where I experiment with new tools and technologies.
 
 ## 🔨 Tech Stack
-+ Languages: Java, JavaScript, TypeScript, Python
-+ Frameworks: React, Node.js, Spring Boot
++ Languages: Java, JavaScript, TypeScript, Dart
++ Frameworks: React, Node.js, Spring Boot, Flutter
 + Databases: SQL, NoSQL (MongoDB), PostgreSQL (Supabase)
 + Tools & Platforms: Azure, Docker, GitOps, PayloadCMS, Next.js
 ## 🌱 My Goals
